@@ -1,0 +1,12 @@
+
+
+Version:	3.9
+CmdLine:	C:\Users\boc\Documents\NetBeansProjects\pms\dist\PMS.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\boc\Documents\NetBeansProjects\pms\dist\.
+Bundled JRE:	jre
+Check launcher:	C:\Users\boc\Documents\NetBeansProjects\pms\dist\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\boc\Documents\NetBeansProjects\pms\dist\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\boc\Documents\NetBeansProjects\pms\dist\PMS.exe"
+Args length:	63/32768 chars
+Exit code:	0
